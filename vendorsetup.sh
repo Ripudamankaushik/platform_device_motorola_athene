@@ -1,3 +1,0 @@
-add_lunch_combo aosp_athene-eng
-add_lunch_combo aosp_athene-user
-add_lunch_combo aosp_athene-userdebug
